@@ -2,7 +2,7 @@
 
 Lead Software Engineer bei Capgemini, vier Jahre Java und Spring im öffentlichen Sektor, dazu Kafka, PostgreSQL, Azure, Terraform und Docker. Aktuell erweitere ich mein Profil um KI-Anwendungsentwicklung.
 
-### Projekte
+### Eigene Projekte
 
 **[anlagen-copilot](https://github.com/fknoerzer/anlagen-copilot)** · RAG über technische Dokumentation
 
@@ -12,7 +12,7 @@ Ohne RAG-Framework gebaut, damit jeder Schritt einzeln messbar bleibt. 17 ADRs, 
 
 `Python` · `PostgreSQL/pgvector` · `OpenAI Embeddings` · `Claude`
 
-**[reverse-prompt-game](https://github.com/fknoerzer/reverse-prompt-game)** · Sphinx, ein Spiel über LLM-Sicherheit
+**[reverse-prompt-game](https://github.com/fknoerzer/reverse-prompt-game)** · Ein Spiel über LLM-Sicherheit
 
 Nutzer versuchen, ein Sprachmodell zur Preisgabe eines geheimen Worts zu bringen. Die Prüfung kombiniert deterministischen Abgleich mit einem LLM-Judge und schlägt bei Fehlern und uneindeutigen Antworten fehl, statt durchzulassen. 50 Tests, statische Typprüfung, CI.
 
